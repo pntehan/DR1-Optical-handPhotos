@@ -11308,3 +11308,12 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+.rcorners {
+  border-radius: 25px;
+  background: #7FFFD4;
+  padding: 12px;
+  width: 200px;
+  height: 60px; 
+  text-align: center;
+  margin-left: 10%;
+}
